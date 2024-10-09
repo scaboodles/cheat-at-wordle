@@ -5235,7 +5235,6 @@ beery
 assai
 lades
 actin
-ghoti
 buzzy
 meads
 grody
@@ -5282,7 +5281,6 @@ fermi
 loges
 niter
 revet
-unate
 gyved
 totty
 zappy
